@@ -15,7 +15,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
       { name: 'og:title', content:'M1nx Dev' },
       { name: 'og:description', content: 'I am a fullstack developer with experience using multiple frontend and backend web frameworks.' },
-      { name: 'og:image', content: './m1nx.gif' },
+      { name: 'og:image', content: './M1nx.gif' },
       { name: 'theme-color', content: "#0b0a0a"}
     ],
 
