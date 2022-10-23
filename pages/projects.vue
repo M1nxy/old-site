@@ -7,6 +7,12 @@
         <div class="flex gap-6 flex-wrap pb-4">
           <ProjectCard
             month="Oct 2022"
+            title="Selene"
+            description="A class based Command / Event handler for discord.js."
+            link="https://github.com/M1nxy/Selene"
+          />
+          <ProjectCard
+            month="Oct 2022"
             title="Gib"
             description="A nodejs project manager with license generation, dependency management and other QOL tools."
             link="https://github.com/M1nxy/gib"
