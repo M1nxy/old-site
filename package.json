@@ -6,8 +6,9 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+    "generate": "nuxt generate && echo m1nx.dev > dist/CNAME",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
+    "publish": "npm run generate && npm run deploy"
   },
   "dependencies": {
     "core-js": "^3.25.3",

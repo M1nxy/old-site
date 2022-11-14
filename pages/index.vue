@@ -2,10 +2,10 @@
   <div class="bg-base-300 h-full w-full flex flex-col">
     <NavBar />
     <div class="content flex justify-center items-center h-full overflow-auto">
-      <div class="mockup-window border border-current bg-base-400 h-fit mx-4 md:mx-0 shadow-2xl">
+      <div class="mockup-window border border-base-200 bg-base-400 h-fit mx-4 md:mx-0 shadow">
         <div class="hero bg-base-200 h-full">
           <div class="hero-content flex-col lg:flex-row">
-            <img src="../static/m1nx.gif" class="max-w-xs rounded-lg p-5 rounded-full" />
+            <img src="../static/M1nx.gif" class="w-full max-w-xs rounded-lg p-5 rounded-full"  alt="profile"/>
             <div>
               <h1 class="text-5xl font-bold">M1nx</h1>
               <p class="py-6">I am a fullstack developer with experience using multiple frontend and backend web frameworks.</p>

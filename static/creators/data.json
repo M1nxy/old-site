@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Blender Guru",
+    "image": "BlenderGuru.jpg",
+    "description": "Blender channel for beginners.",
+    "tags": ["Blender", "Tutorials"]
+  },
+  {
+    "name": "CGMatter",
+    "image": "CGMatter.jpg",
+    "description": "Blender channel for beginners",
+    "tags": ["Blender", "Geometry Nodes", "Tutorials"]
+  }
+]

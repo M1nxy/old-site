@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full basis-1/3 grow lg:basis-1/5 shadow-2xl bg-base-100 rounded-lg p-10">
+  <div class="w-full basis-1/3 grow lg:basis-1/5 shadow bg-base-100 rounded-lg p-10">
     <h2 class="font-sm font-bold text-highlight">{{ title }}</h2>
     <h3 class="text-3xl font-bold flex items-center text-current">
       <svg class="h-7 fill-current" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" v-html="icon"></svg>

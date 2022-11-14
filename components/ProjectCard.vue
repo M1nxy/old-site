@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full basis-1/1 grow lg:basis-1/3 shadow-2xl bg-base-100 rounded-lg p-10 flex flex-col justify-between">
+  <div class="w-full basis-1/1 grow lg:basis-1/3 shadow bg-base-100 rounded-lg p-10 flex flex-col justify-between">
     <h2 class="font-sm font-bold text-highlight">{{ month }}</h2>
     <h2 id="work" class="text-3xl font-bold text-current">{{ title }}</h2>
     <p class="section-paragraph">{{ description }}</p>
