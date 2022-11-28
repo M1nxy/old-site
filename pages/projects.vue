@@ -7,6 +7,12 @@
         <div class="flex gap-6 flex-wrap pb-4">
           <ProjectCard
             month="Oct 2022"
+            title="TS-Lib-Create"
+            description="A tool to create Typescript libraries faster."
+            link="https://github.com/M1nxy/ts-lib-create"
+          />
+          <ProjectCard
+            month="Oct 2022"
             title="Selene"
             description="A class based Command / Event handler for discord.js."
             link="https://github.com/M1nxy/Selene"
