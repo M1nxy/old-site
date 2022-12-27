@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{257:function(t,n,e){"use strict";e.r(n);var l={name:"Footer"},c=e(43),component=Object(c.a)(l,(function(){return(0,this._self._c)("h1",{staticClass:"w-full text-center text-l p-2"},[this._v("© M1nx 2022")])}),[],!1,null,null,null);n.default=component.exports}}]);
