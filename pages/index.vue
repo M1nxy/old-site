@@ -2,7 +2,7 @@
   <div class="bg-base-300 w-full h-full flex flex-col">
     <NavBar />
     <div class="content flex justify-center m-auto h-full overflow-auto">
-      <div class="mockup-window border border-base-200 bg-base-400 h-fit mx-4 md:mx-0 shadow">
+      <div class="mockup-window border border-base-200 bg-base-400 h-fit mx-4 md:mx-0 shadow my-auto">
         <div class="hero bg-base-200 h-full">
           <div class="hero-content flex-col lg:flex-row">
             <img src="../static/M1nx.gif" class="w-full max-w-xs rounded-lg p-5 rounded-full"  alt="profile"/>
